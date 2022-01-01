@@ -33,7 +33,7 @@
 [![](https://user-images.githubusercontent.com/10287629/103071238-91839580-4606-11eb-851e-213a53d04fac.png)](https://colab.research.google.com/drive/1XiNIABmKVGwFNUwQUnqY70LMVmWTKuOW?usp=sharing)
 
 ## 코로나 확진자 발생 현황
-
+![covid_data](https://user-images.githubusercontent.com/10287629/147855466-7092f6cf-abc6-4111-a6ca-d8bedc020ae2.png)
 [![covid19](https://user-images.githubusercontent.com/10287629/147855100-fe917e41-fb56-4627-ae8b-af54c51526ef.png)](https://logistex2021.pythonanywhere.com/chart/covid19new/)
 
 ## 인공지능
