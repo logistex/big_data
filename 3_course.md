@@ -44,4 +44,7 @@
       - <u><b>캡스톤디자인 EDA 설계/구현 프로젝트</b></u> 
       - **현장실습** 
 
+- [신 교수 웹 사이트](https://logistex2021.pythonanywhere.com/)에서 생각하기  
+[![shin_web](https://user-images.githubusercontent.com/10287629/147854393-c1d03c93-ef66-458f-b64e-b0c5633bbae8.png)](https://logistex2021.pythonanywhere.com/)
+
 [![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/)
