@@ -10,7 +10,7 @@
 
 ![datasaurus](https://communities.sas.com/t5/image/serverpage/image-id/20284iD46C690F13883A37?v=1.0)
 
-[데이터 시각화 기본 개념](http://localhost:8888/notebooks/elite/2020/lecture2/VD02/00vd_work/wk01_intro_basics_principles/wk0101_basics.ipynb)
+[신 교수의 데이터 과학 노트](https://colab.research.google.com/github/logistex/py4ds/blob/main/py4ds.ipynb)
 
 ## 취업 현황 시각화
 
@@ -25,21 +25,22 @@
 
 ![cctv](https://user-images.githubusercontent.com/10287629/106096396-d0ae8480-6178-11eb-9e44-ab203e7fd12c.png)
 
-[CCTV 현황 분석](http://localhost:8888/notebooks/elite/2020/lecture2/VD02/00vd_work/wk07_mid_work/hw07_%EB%AA%A8%EB%B2%94%EB%8B%B5%EC%95%88.ipynb)
+[CCTV 현황 분석](https://colab.research.google.com/drive/1hUN48Mg9AsuloTbsZxmGqUogteTqhrnL?usp=sharing)
 
 ## 범죄 현황 시각화
 
 ![crime_2019 txt](https://user-images.githubusercontent.com/10287629/102707120-9b8e5700-42db-11eb-98fe-f0e59e50049c.png)
 ![murder_both](https://user-images.githubusercontent.com/10287629/103071238-91839580-4606-11eb-851e-213a53d04fac.png)
 
-[범죄 현황 분석](http://localhost:8888/notebooks/elite/2020/lecture2/VD02/00vd_work/wk15_final_work/final_work_answer.ipynb)
+[범죄 현황 분석](https://colab.research.google.com/drive/1wndU2Bo0bi4J3LRCSh-bBkytGz2S2YBx?usp=sharing)
 
 ## 인공지능
 - 얼굴 비식별 처리에 인공지능을 활용한 사례
-- 비식별 처리 적용 전 동영상
-[![한양여대](https://www.hywoman.ac.kr/resources/domain/ko/VI/1610683277625.jpg)](https://youtu.be/6uFZMHhJKnQ)
-- 비식별 처리 적용 후 동영상
-[![한양여대](https://www.hywoman.ac.kr/resources/domain/ko/VI/1598838872707.jpg)](https://youtu.be/pgnHclIDoA4)
+- 비식별 처리 적용 전 동영상  
+[![identify](https://user-images.githubusercontent.com/10287629/147853128-52995310-1184-40d2-9e00-ea8789d42c60.png)](https://youtu.be/6uFZMHhJKnQ)
+- 비식별 처리 적용 후 동영상  
+[![no_identify](https://user-images.githubusercontent.com/10287629/147853067-92c34af8-8476-4050-9df7-38da37a648b5.png)
+](https://youtu.be/pgnHclIDoA4)
 
 ---
 
