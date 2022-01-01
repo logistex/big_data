@@ -45,10 +45,10 @@
         ![not_building_owner](https://user-images.githubusercontent.com/10287629/106135832-c8237180-61ab-11eb-88d7-744f6dcdc1f2.png)
 
     - 지금까지 배운 내용은 기초에 불과하지만,  
-      그것만으로도 많은 것을 할 수 있습니다!
+      그것만으로도 많은 것을 할 수 있습니다!  
     ![small_great](https://user-images.githubusercontent.com/10287629/106135392-34ea3c00-61ab-11eb-845f-b9454267ed9b.png)
-        - 부자가 되면 기부할까요?
-        - 지금 그냥 하면 됩니다!
+        - 부자가 되면 기부할까요? 지금 그냥 하면 됩니다!
+        - 공부가 완성되면 코딩할까요? 지금 그냥 하면 됩니다! 
 
     - 멋진 대학 생활 되시길!
     ![adventure](https://user-images.githubusercontent.com/10287629/106135626-898db700-61ab-11eb-88ee-44f9fed29777.png)
