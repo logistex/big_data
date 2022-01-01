@@ -85,16 +85,25 @@
         </tr>
         <tr></tr>
         <tr>
+            <td style="text-align: center; vertical-align: middle;"><strong>인재<br>양성<br>유형</strong></td>
+            <td>
+                <br>
+                <img width="100%" src="https://www.hywoman.ac.kr/resources/js/cheditor/attach/20210709134932_eefmgpeg.png">
+                <br>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
             <td style="text-align: center; vertical-align: middle;"><strong>목표 <br>직무</strong></td>
             <td>
             <ul>
-                <li><b>데이터 엔지니어</b></li> 
-                <p>&nbsp;&nbsp;&nbsp; 기업의 "데이터 파이프라인(data pipeline)"을 구축하고 관리하는 역할</p>
-                <li><b>데이터 분석가</b></li> 
+                <li><i>데이터 분석가</i></li> 
                 <p>&nbsp;&nbsp;&nbsp; 조직의 데이터를 수집·처리·분석하여 비즈니스에 활용할 방법을 찾아내는 역할</p>
-                <li><b>AI 엔지니어</b></li> 
+                <li><i>AI 엔지니어</i></li> 
                 <p>&nbsp;&nbsp;&nbsp; 머신러닝·딥러닝 등을 활용하여 예측 및 최적화를 수행하는 인공지능 모델을 구축하는 역할</p>
-                <li><b>데이터 과학자</b></li>
+                <li><i>데이터 엔지니어</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; 기업의 "데이터 파이프라인(data pipeline)"을 구축하고 관리하는 역할</p>
+                <li><b><i>데이터 과학자</i></b></li>
                 <p>&nbsp;&nbsp;&nbsp; - 데이터 과학자 = 데이터 엔지니어 + 데이터 분석가 + AI 엔지니어</p>
                 <p>&nbsp;&nbsp;&nbsp; - 빅데이터과 졸업생들의 궁극적 지향 목표</p>
               </ul>
@@ -151,15 +160,6 @@
                   <li>정보기술자격(ITQ)</li> 
                 </ul>
               </ul>
-            </td>
-        </tr>
-        <tr></tr>
-        <tr>
-            <td style="text-align: center; vertical-align: middle;"><strong>인재상</strong></td>
-            <td>
-                <br>
-                <img width="100%" src="https://user-images.githubusercontent.com/10287629/103887406-57e27c80-5126-11eb-9bfe-01ac9880ed95.png">
-                <br>
             </td>
         </tr>
         <tr></tr>
