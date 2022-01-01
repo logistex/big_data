@@ -56,7 +56,7 @@
 
 - 연락처
 > Haewoong Shin, Ph.D.  
-Professor, Dept. of Smart IT, Hanyang Women's University  
+Professor, Dept. of Big Data, Hanyang Women's University  
 200, Salgoji-gil, Seongdong-Ku, Seoul, 04763, Republic of Korea  
 e-mail: logistex@hywoman.ac.kr  
 Cellular: 82-10-3770-2210    
