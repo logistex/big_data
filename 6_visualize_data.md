@@ -25,14 +25,16 @@
 
 ![cctv](https://user-images.githubusercontent.com/10287629/106096396-d0ae8480-6178-11eb-9e44-ab203e7fd12c.png)
 
-[CCTV 현황 분석](https://colab.research.google.com/drive/1hUN48Mg9AsuloTbsZxmGqUogteTqhrnL?usp=sharing)
+[![](https://user-images.githubusercontent.com/10287629/96718652-47eab480-13e3-11eb-932f-1cd0d2fe63b4.png)](https://colab.research.google.com/drive/1IGLIGeco7a_ImFVogVetjWSlQssI_xQw?usp=sharing)
 
 ## 범죄 현황 시각화
 
 ![crime_2019 txt](https://user-images.githubusercontent.com/10287629/102707120-9b8e5700-42db-11eb-98fe-f0e59e50049c.png)
-![murder_both](https://user-images.githubusercontent.com/10287629/103071238-91839580-4606-11eb-851e-213a53d04fac.png)
+[![](https://user-images.githubusercontent.com/10287629/103071238-91839580-4606-11eb-851e-213a53d04fac.png)](https://colab.research.google.com/drive/1XiNIABmKVGwFNUwQUnqY70LMVmWTKuOW?usp=sharing)
 
-[범죄 현황 분석](https://colab.research.google.com/drive/1wndU2Bo0bi4J3LRCSh-bBkytGz2S2YBx?usp=sharing)
+## 코로나 확진자 발생 현황
+
+[![covid19](https://user-images.githubusercontent.com/10287629/147855100-fe917e41-fb56-4627-ae8b-af54c51526ef.png)](https://logistex2021.pythonanywhere.com/chart/covid19new/)
 
 ## 인공지능
 - 얼굴 비식별 처리에 인공지능을 활용한 사례
