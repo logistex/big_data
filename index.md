@@ -1,7 +1,7 @@
 # 빅데이터과 신입생 교육
 
 ## [환영 및 인사](./1_greetings.md)
-## [학과 소개](./2_smartIT.md)
+## [학과 소개](./2_big_data.md)
 ## [과정 소개](./3_course.md)
 ## [조언](./4_advice.md)
 ## [웹 사이트 제작](./5_website.md)
