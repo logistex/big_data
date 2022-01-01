@@ -4,7 +4,7 @@
 **22학번 신입생 여러분을 환영합니다!**   
 
 여기서 여러분의 멋진 미래를 준비하기 바랍니다.  
-힘들었던 과거의 기억을 모두 극복하기 바랍니다.  
+힘들었던 과거의 기억이 있다면 모두 극복하기 바랍니다.  
 함께 공부할 3 년이란 시간이 행복하기 바랍니다.  
 
 여러분을 위해 정성스레 준비했습니다.  
@@ -34,8 +34,8 @@
 - 이름: 신해웅(辛海雄)
 - 최근 강의하는 과목
   - 파이썬
-  - [장고 웹 개발](http://logistex2020.pythonanywhere.com/)
-  - [데이터 시각화](http://logistex2020.pythonanywhere.com/chart/ticket-class/3/)
+  - [장고 웹 개발](https://logistex2021.pythonanywhere.com/)
+  - [데이터 시각화](https://logistex2021.pythonanywhere.com/chart/alt-interactive/)
 - 좌우명
 
 ![Love it](https://user-images.githubusercontent.com/10287629/104137834-14686680-53e3-11eb-86a2-1f678016c49c.png)
