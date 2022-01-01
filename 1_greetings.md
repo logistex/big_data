@@ -35,6 +35,7 @@
 - 최근 강의하는 과목
   - 파이썬
   - [장고 웹 개발](https://logistex2021.pythonanywhere.com/)
+  - [데이터 분석](https://colab.research.google.com/github/logistex/py4ds/blob/main/py4ds.ipynb?hl=ko#scrollTo=db03870d)
   - [데이터 시각화](https://logistex2021.pythonanywhere.com/chart/alt-interactive/)
 - 좌우명
 
