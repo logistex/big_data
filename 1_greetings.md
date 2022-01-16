@@ -58,14 +58,14 @@
 
 - 연락처
 
-> **공학박사 신해웅**  
+  > **공학박사 신해웅**  
 한양여자대학교 빅데이터과 교수  
 서울특별시 성동구 살곶이길 200 (우: 04763)
 이메일: logistex@hywoman.ac.kr  
 핸드폰: 010-3770-2210    
 연구실: 02-2290-2385
 
-> **Haewoong Shin, Ph.D.**  
+  > **Haewoong Shin, Ph.D.**  
 Professor, Dept. of Big Data, Hanyang Women's University  
 200, Salgoji-gil, Seongdong-Ku, Seoul, 04763, Republic of Korea  
 e-mail: logistex@hywoman.ac.kr  
