@@ -16,7 +16,7 @@
       비즈니스에 적용하는 행위
 - 빅데이터의 특징
   - 3V = 규모(volume) + 다양성(variety) + 속도(velocity)
-  - 4V = 3V + 정확성(veracity
+  - 4V = 3V + 정확성(veracity)
   - 5V = 4V + 가치(value)
 
   ![빅데이터의 특징](https://blog.altair.co.kr/wp-content/uploads/2021/06/bigdata_5v.png)  
