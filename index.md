@@ -12,7 +12,7 @@
 
 [수업에서 완성할 웹 사이트](https://logistex.github.io/test0100/)
 
-```
+---
 - [출석부 확인](https://docs.google.com/spreadsheets/d/1Bx5xXdcmkvvaHV0e-xrcyFfQGbgV5OEA/edit#gid=1170848314)
 
 - <strong>지난 강의 다시 보기<strong>  
