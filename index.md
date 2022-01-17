@@ -14,7 +14,7 @@
 
 ---
 
-[출석부 확인](https://docs.google.com/spreadsheets/d/19jZ9a173JM_4YZ4iTr9VQ1k6hO2ke1cLCTwI_oG8WWY/edit#gid=0)
+[출석부 확인](https://docs.google.com/spreadsheets/d/1Bx5xXdcmkvvaHV0e-xrcyFfQGbgV5OEA/edit#gid=1170848314)
 
 ---
 
