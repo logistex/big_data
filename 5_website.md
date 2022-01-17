@@ -50,7 +50,7 @@
     - 작성된 코드 덩어리를 애플리케이션, 앱, (응용) 프로그램, 정보 시스템 등으로 부름
     - 컴퓨터 언어도 사람의 언어처럼 매우 다양함
     - 유명한 컴퓨터 언어의 예: HTML, CSS, JavaScript, Python, Java, C, C++, PHP, SQL, ...  
-    - [프로그래밍 언어 순위](https://pypl.github.io/PYPL.html)
+    - [프로그래밍 언어 순위](https://pypl.github.io/PYPL.html)  
     ![컴퓨터 언어](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7551.png)
 - HTML
     - 우리 수업의 주제
