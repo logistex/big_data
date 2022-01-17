@@ -59,9 +59,9 @@
     - 웹 문서의 모양은 CSS 언어로 작성
     - 웹 문서의 동작은 JavaScript로 작성
 - HTML은 배우기 쉬움  
+    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7552.png" width="45%">
+    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7553.png" width="45%">  
     - 쉽지만, 중요함  
-      <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7552.png" width="45%">
-      <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7553.png" width="45%">
     - 웹 문서를 작성하는 도구
     - 여러분이 맨 처음 배우는 컴퓨터 언어
 - 공공재(public domain)
