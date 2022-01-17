@@ -14,9 +14,9 @@
 
 ---
 - [출석부 확인](https://docs.google.com/spreadsheets/d/1Bx5xXdcmkvvaHV0e-xrcyFfQGbgV5OEA/edit#gid=1170848314)
-
-- <strong>지난 강의 다시 보기<strong>  
+- 지난 강의 다시 보기  
   - [1/17(월) 강의](https://youtu.be/MvrUaOE7tzA)
+
 ---
 
 [![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/)
