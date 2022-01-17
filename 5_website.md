@@ -171,7 +171,7 @@
   ![태그로 다이빙](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7597.jpeg)
 - 한글이 깨지는 경우  
     - 윈도우는 기본적으로 "cp949"라는 인코딩 방식을 사용함
-    - cmd 창을 열어서 `chcp` 명령을 실행시켜보면 확인 가능함
+    - cmd 창을 열어서 `chcp` 명령을 실행하면 확인 가능함
     - 윈도우에서 제공되는 메모장으로 `html.html` 파일을 열어보면 한글이 깨짐
     - 윈도우 기본 코드 페이지를 "utf-8"로 변경하려면  
         - 일회성 변경: cmd 창에서 `chcp 65001` 명령을 실행하면 됨
