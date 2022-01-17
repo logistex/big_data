@@ -61,11 +61,13 @@
     - 웹 문서의 모양은 CSS 언어로 작성
     - 웹 문서의 동작은 JavaScript로 작성
 - HTML은 배우기 쉬움  
-    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7552.png" width="45%">
-    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7553.png" width="45%">  
     - 쉽지만, 중요함  
     - 웹 문서를 작성하는 도구
     - 여러분이 맨 처음 배우는 컴퓨터 언어
+
+    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7552.png" width="45%">
+    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7553.png" width="45%">  
+
 - 공공재(public domain)
     - 무료로 쓸 수 있도록, 공개되어 있는
     - 세종대왕은 자신이 창제한 한글에 저작권을 설정하지 않았음  
