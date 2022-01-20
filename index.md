@@ -19,7 +19,7 @@
 <strong>지난 수업 동영상</strong>  
 [1/17 (영상 녹화 과정에서 일부분이 유실되었어요ㅠㅠ)](https://www.youtube.com/watch?v=MvrUaOE7tzA&feature=youtu.be)  
 [1/18](https://www.youtube.com/watch?v=MvrUaOE7tzA&feature=youtu.be)
-
+[1/19](https://youtu.be/mCuNuz_WbZQ)
 ---
 
 
