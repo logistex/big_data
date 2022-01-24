@@ -21,6 +21,7 @@
 - [1/18](https://youtu.be/t0fJb4U6FyA)
 - [1/19](https://youtu.be/mCuNuz_WbZQ)
 - [1/20](https://youtu.be/9mxPmRUxInc)
+- [1/21](https://youtu.be/Pcbs_xZk8sw)
 
 ---
 
